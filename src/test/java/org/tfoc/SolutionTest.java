@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 class SolutionTest {
 
     @Test
-    void testCustomer() {
+    void testSolution() {
 
         log.info("Don't forget to write the tests to make sure it works. Enjoy!");
     }
