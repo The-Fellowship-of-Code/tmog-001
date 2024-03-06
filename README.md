@@ -39,3 +39,7 @@ You can return the answer in any order.
 Here you can find ***the spice*** if you want to show off, with a slightly more difficult challenge.
 
 - Can you come up with an algorithm that is less than O(n^2) time complexity?
+
+## Credits
+
+This exercise has been extracted from the [LeetCode](https://leetcode.com/problems/two-sum) website. Don't hesitate, join and practice in this great community.
